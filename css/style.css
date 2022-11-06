@@ -1,0 +1,54 @@
+.header{
+    margin-left: auto;
+    margin-right: auto; 
+    
+    width:fit-content
+}
+
+.container{
+    width: 1000px;
+    height: 65px;
+    background-color:rgb(228, 228, 228);
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size:medium;
+    
+    
+}
+
+.altgövde1{
+    background-color:rgb(107, 206, 206) ;
+    width: 400px;
+    height: 80px;
+    
+    
+    
+}
+
+.altgövde2{
+    background-color:rgb(75, 173, 173) ;
+    width: 200px; 
+    height: 80px;
+   font-size: small;
+   
+    
+    
+    
+}
+
+
+.altgövde3{
+    background-color:rgb(83, 155, 155) ;
+    width: 400px;
+    height: 80px;
+    font-size: small;
+}
+
+.yanayana{
+    float: left;
+    text-align: center;
+    
+    
+}
+
